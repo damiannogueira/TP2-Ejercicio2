@@ -1,2 +1,2 @@
 # Trabajo-Practico-2
-Repositorio para ejercicios TP2 Programación 1.
+Repositorio para Ejercicio 2 del TP2 Programación 1.
